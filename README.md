@@ -1,6 +1,6 @@
 # search-github-users
 
-<a href="">Live preview</a>
+<a href="https://github-users-highlights.netlify.app/">Live preview</a>
 
 This is project inspired by joshn smilga's course on react.
 
